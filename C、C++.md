@@ -1,3 +1,10 @@
+### 为什么考浙大？
+1. 计算机实力强，和我想要学的ai研究方向相符
+2. 学计算机就是从陈越老师的数据结构和翁恺老师的C语言开始的
+---
+1. Zhejiang University is good at computer sicence which is matching to my favorable research direction.
+2. I start to learn computer science though Chen Yue's data structure and Weng Kai's C language so I have a good impression on Zhejiang University.
+
 ### 内存管理
 - 代码区  
 存放函数体的**二进制代码**，由操作系统进行管理的。**共享、只读**。
