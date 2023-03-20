@@ -128,7 +128,7 @@ IPv6的路由表更小，聚合能力更强，提升了网络数据转发的效�
 
 ### HTTP和HTTPS
 - HTTPS是HTTP协议的安全版本，HTTP协议的数据传输是明文的，是不安全的，HTTPS使用了SSL/TLS协议进行了加密处理。
-- http和https使用连接方式不同，默认端口也不一样，http是80，https是443。
+- HTTP和HTTPS使用连接方式不同，默认端口也不一样，HTTP是80，HTTPS是443。
 
 ### 协议
 - 语法：传输数据的格式
